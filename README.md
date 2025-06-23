@@ -13,7 +13,7 @@ Xplore is a responsive travel website that allows users to explore and book inte
 - Assitive technologies like speech synthesis, keyboard accessibility, alt text and semantic html
 
 ## Technologies Used
-- **HTML5**, **CSS3**, **JavaScript**
+- **HTML5**, **CSS3**
 - **Font Awesome** for icons
 - **Google Fonts** for typography
 - **Responsive Web Design** principles
